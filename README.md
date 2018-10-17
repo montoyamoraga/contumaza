@@ -4,9 +4,13 @@
 
 contumaza is an instrument by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
-## Technical details
+## Hardware
 
-contumaza is built using a [Teensy](https://www.pjrc.com/teensy/) and all the source code can be found on this repository.
+contumaza is built using a [Teensy](https://www.pjrc.com/teensy/).
+
+## Software
+
+All the source code can be found on this repository.
 
 ## Available modes
 
@@ -45,7 +49,6 @@ Hardware:
 * knob_left: value0 [0 - 127]
 * knob_right: value1 [0 - 127]
 * knob_center: probability [0.0 - 1.0]
-
 
 ## Contribute
 
